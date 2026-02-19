@@ -35,6 +35,6 @@ Tu peux ajuster les dimensions du château directement dans les variables global
 
 ## Installation & Lancement
 
-* Assure-toi d'avoir Processing installé.Clone le dépôt et bascule sur la branche master.
+* Assure-toi d'avoir Processing installé.
 * Ouvre le fichier ChateauFort.pde dans Processing.
-* Appuie sur le nouton Run(play).
+* Appuie sur le bouton Run(play).
