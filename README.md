@@ -2,7 +2,7 @@
 Bienvenue dans ce projet de génération procédurale d'un château fort en 3D ! 
 Ce programme utilise l'environnement Processing pour construire une forteresse complète avec ses tours, ses murs d'enceinte, ses meurtrières et ses créneaux.
 
-[!IMPORTANT]Tous les fichiers sources du projet se trouvent dans la branche master.
+
 
 📋 Présentation du projetLe but de ce projet est de modéliser un château fort modulable. Chaque élément (tours, murs, portes) est construit de manière logique, brique par brique, pour un rendu détaillé.+2Caractéristiques principales :Architecture modulaire : 4 tours reliées par des murs d'enceinte.+1Détails réalistes : Présence de meurtrières, de créneaux au sommet des tours et de toits pyramidaux.+4Interaction utilisateur :Rotation : Clic gauche + glisser pour tourner autour du château.Zoom : Utilisation de la molette de la souris pour s'approcher ou s'éloigner.Gestion des textures : Alternance de briques pleines et demi-briques (offset) pour un aspect "maçonnerie".
 
