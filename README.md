@@ -4,7 +4,12 @@ Ce programme utilise l'environnement Processing pour construire une forteresse c
 
 
 
-📋 Présentation du projetLe but de ce projet est de modéliser un château fort modulable. Chaque élément (tours, murs, portes) est construit de manière logique, brique par brique, pour un rendu détaillé.+2Caractéristiques principales :Architecture modulaire : 4 tours reliées par des murs d'enceinte.+1Détails réalistes : Présence de meurtrières, de créneaux au sommet des tours et de toits pyramidaux.+4Interaction utilisateur :Rotation : Clic gauche + glisser pour tourner autour du château.Zoom : Utilisation de la molette de la souris pour s'approcher ou s'éloigner.Gestion des textures : Alternance de briques pleines et demi-briques (offset) pour un aspect "maçonnerie".
+📋 Présentation du projetLe but de ce projet est de modéliser un château fort modulable. Chaque élément (tours, murs, portes) est construit de manière logique, brique par brique, pour un rendu détaillé.
+Caractéristiques principales :Architecture modulaire : 4 tours reliées par des murs d'enceinte.
+Détails réalistes : Présence de meurtrières, de créneaux au sommet des tours et de toits pyramidaux.
+Interaction utilisateur :Rotation : Clic gauche + glisser pour tourner autour du château.
+Zoom : Utilisation de la molette de la souris pour s'approcher ou s'éloigner.
+Gestion des textures : Alternance de briques pleines et demi-briques (offset) pour un aspect "maçonnerie".
 
 📂 Structure du codeLes fichiers se trouvent sur la branche master et sont organisés comme suit :
 
