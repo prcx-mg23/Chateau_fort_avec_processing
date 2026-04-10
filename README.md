@@ -2,7 +2,7 @@
 ## Bienvenue dans ce projet de génération procédurale d'un château fort en 3D !
 Ce programme utilise l'environnement Processing pour construire une forteresse complète avec ses tours, ses murs d'enceinte, ses meurtrières et ses créneaux.
 
-
+https://github.com/prcx-mg23/Chateau_fort_avec_processing/blob/main/img_chateau_fort1.png
 
 ## Présentation du projetLe but de ce projet est de modéliser un château fort modulable. 
 * Chaque élément (tours, murs, portes) est construit de manière logique, brique par brique, pour un rendu détaillé.
